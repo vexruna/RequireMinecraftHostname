@@ -1,3 +1,4 @@
+![Screenshot](img/picrelated.png)
 # Description
 
 This is a PaperMC plugin that forces a specific hostname address for people trying to connect to the server.
