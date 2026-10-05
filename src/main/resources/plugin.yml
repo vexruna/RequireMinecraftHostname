@@ -1,0 +1,5 @@
+name: RequireMinecraftHostname
+version: 1.0.0
+main: gay.vexruna.hostname.RequireMinecraftHostname
+api-version: '26.3'
+description: Requires players to connect using mc.vexruna.gay
